@@ -1,12 +1,16 @@
-# Page two
+# What are the disadvantages of open source software?
 
-## This is the headline of your second page
+## The unnoticed parts of using open source softwares
 
-The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
+Open source works as an open space for other users to collaborate on the development of specific projects in such a way there exist a “community driven”  on the elaboration of new implementations, taking this into consideration it leaves the perception that this could only come with positive outcomes but the question is:
 
-There is only one HTML file, index.html. It holds the frame around the text: the navigation, the banner and the footer. The link in the navigation decides which markdown file is shown inside the frame. The words themselves live in a markdown file, which is much quicker to write than HTML. Many websites work the same way: the content is kept separately from the page that displays it.
 
-### Another headline
+What happens when a project is left at the disposition of other users?
 
-1. Numbered lists work too
-2. Just start the lines with numbers
+
+To provide improvements is one outcome but also the possibility to add malicious codes such as bad updates or other entries for external purposes than the original. Moreover, projects come as a target to retrieve data or have suspicious activities that could affect the collaborators and the end users.
+
+
+the active collaboration of users, another perspective of this is that nobody is obliged to help in a general sense. Every project has its own topic and specifications and for that it could come the situation that these have very slow response time on issues or no active maintainers at all (Akça, 2026).
+
+
