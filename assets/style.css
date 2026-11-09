@@ -186,7 +186,7 @@ footer {
 
 /* markdown cannot add classes, so the first paragraph after a headline gets the light style this way */
 main h2 + p {
-  font-weight: 200;
+  font-weight: 400;
 }
 
 /* the resets at the top remove link colours and bullets everywhere, so we give them back inside main */
@@ -212,7 +212,7 @@ main img {
   font-weight: 100;
 }
 .outOfFocusArt h3 {
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .inFocusArt {
