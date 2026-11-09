@@ -1,5 +1,7 @@
 # What is Zotero?
 
+## Get to know Zotero
+
 Zotero is a tool designed for collecting, organizing, annotating, citing and sharing research papers. 
 
 Students from Intercultural Studies, European studies or belonging to the Humanities department engage constantly with research papers or documents with theoretical concepts. These require the appropriate documentation as it helps them to identify references and have an easy access and be able to follow up with theoretical concepts. 
