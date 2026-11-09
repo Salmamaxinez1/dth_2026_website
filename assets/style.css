@@ -13,7 +13,7 @@
   --pink: #cb70db;
   --orange: #eb9744;
   --green: #6c834b;
-  --projectFont: Lexend, Arial, sans-serif;
+  --projectFont: "Redaction 10", Georgia, serif;
 }
 
 /* individual element styles */
@@ -22,7 +22,7 @@ body {
   font-family: var(--projectFont);
   padding: 0;
   margin: 0;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
