@@ -1,16 +1,21 @@
-# Page one
+# What are the advantages of open source software?
 
-## This is the headline of your first page
+## Open Source using it to the most
 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
 
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
+Open Source Software works with open source code which is a space for anyone to access it through the use of an ordinary computer, it is accessible for usage with no specific physical requirements such as extensive hardware or any specialized device. 
 
-- one item
-- another item
+Moreover, OSS is a source code developed and maintained through open collaboration. Anyone can use, examine, alter and redistribute it as they see fit (Susnjara & Smalley, 2021)
 
-### A smaller headline
+- It is not a “one person work” which means that any user who wants to develop an idea does not require initial expert abilities, since the space allows other users with more experienced skills to interact and take the initiative to develop it. 
+- An idea can become a project, and for that to think more about the things that do not work initially and then fixing them is possible since the collaboration of other users is what maintains the space developing.
 
-You can also add images from the assets folder:
+
+### The Result
+
+OSS has become an opportunity to create a community where helping to fix errors opens up to collaborate, include and create constant updates, here people with different advanced expertise and diverse skills can contribute for mutual projects. In addition, this gives the possibility for multidisciplinary knowledge in business, engineering, architecture, academia etc. to be exchanged, as knowledge in different areas becomes a leverage in the acceleration of projects. 
+
+https://www.akamai.com/cloud/guides/what-is-open-source-software 
+https://www.ibm.com/think/topics/open-source 
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
