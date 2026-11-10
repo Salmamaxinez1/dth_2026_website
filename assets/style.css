@@ -78,12 +78,18 @@ section {
 }
 
 #bannerShadow h1 {
-  color: var(--green);
+  color: var(--white);
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
 }
 
 #bannerShadow {
   background-color: rgba(134, 88, 226, 0.55);
+}
+h1 {
+  width: 100%;
+  padding: 0;
+  align-self: center;
+  text-align: center;
 }
 
 /* carousel articles */
