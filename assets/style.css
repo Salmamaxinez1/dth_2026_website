@@ -63,7 +63,7 @@ section {
   cursor: pointer;
 }
 .navLink:hover {
-  color: var(--dark);
+  color: var(--pink);
   cursor: pointer;
 }
 
@@ -128,10 +128,10 @@ h1 {
 }
 
 .carouselBtn {
-  background-color: var(--white);
+  background-color: var(--light-purple);
   outline: none;
   border: none;
-  color: var(--blue);
+  color: var(--purple);
   font-size: 48px;
   margin: 0 40px;
   transition: ease-in-out, 0.3s;
@@ -146,7 +146,7 @@ h1 {
 /* footer */
 
 footer {
-  background-color: var(--light-blue);
+  background-color: var(--light-purple);
   margin: 0;
 }
 
@@ -173,8 +173,8 @@ footer {
   margin: 0 10%;
 }
 
-.blueText {
-  color: var(--blue);
+.orangeText {
+  color: var(--orange);
 }
 
 .blackText {
@@ -223,10 +223,10 @@ main img {
 }
 
 .btnDisabled {
-  color: var(--light-blue);
+  color: var(--light-purple);
 }
 .btnDisabled:hover {
-  color: var(--light-blue);
+  color: var(--light-purple);
   cursor: auto;
   transform: scale(1);
 }
