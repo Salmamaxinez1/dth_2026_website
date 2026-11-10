@@ -66,9 +66,6 @@ section {
   color: var(--dark);
   cursor: pointer;
 }
-#navBar { border-bottom: 3px solid var(--green); }
-#navBar > a { color: var(--purple); }
-.navLink:hover { color: var(--pink); }
 
 /* hero banner */
 
@@ -91,8 +88,7 @@ h1 {
   align-self: center;
   text-align: center;
 }
-#bannerShadow { background-color: rgba(134, 88, 226, 0.6); }
-h1 { color: var(--white); text-shadow: 0 2px 8px rgba(0, 0, 0, 0.35); }
+
 /* carousel articles */
 
 #carouselMain {
