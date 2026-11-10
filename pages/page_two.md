@@ -16,4 +16,6 @@ Open source works as an open space for other users to collaborate on the develop
 
 
 References
-https://refine.dev/blog/open-source-advantages-disadvantages/#disadvantages-of-open-source-software https://www.techtarget.com/news/5-advantages-and-6-disadvantages-of-open-source-software/847664/ 
+https://refine.dev/blog/open-source-advantages-disadvantages/#disadvantages-of-open-source-software 
+
+https://www.techtarget.com/news/5-advantages-and-6-disadvantages-of-open-source-software/847664/ 

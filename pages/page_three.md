@@ -30,6 +30,7 @@ Zotero in thi situation becomes a program where students can collect, organize, 
 
 References
 https://www.zotero.org/about/ 
+
 https://github.com/zotero/zotero/issues?q=is%3Aissue+state%3Aopen 
 
 
