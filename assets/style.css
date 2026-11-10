@@ -80,6 +80,7 @@ section {
 #bannerShadow h1 {
   color: var(--white);
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+  height: 100%;
 }
 
 #bannerShadow {
@@ -181,7 +182,7 @@ footer {
 }
 
 .blackText {
-  color: var(--black);
+  color: var(--green);
 }
 
 .lightText {
