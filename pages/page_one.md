@@ -14,7 +14,7 @@ Open Source Software (OSS) works with open source code which is a space for user
 - An idea can become a project, and for that to think more about the things that do not work initially and then fixing them is possible since the collaboration of other users is what maintains the space developing.
 
 
-### Beyond the limits
+## Beyond the limits
 
 OSS has become an opportunity to create a community where helping to fix errors opens up to collaborate, include and create constant updates. 
 
