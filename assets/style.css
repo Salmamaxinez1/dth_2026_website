@@ -194,7 +194,7 @@ main h2 + p {
 
 /* the resets at the top remove link colours and bullets everywhere, so we give them back inside main */
 main a {
-  color: var(--blue);
+  color: var(--orange);
   text-decoration: underline;
 }
 
@@ -231,9 +231,6 @@ main img {
   transform: scale(1);
 }
 
-#page_two h2 { color: var(--black); }
-
-.carouselBtn {
-  font-family: Arial, sans-serif;
-  color: var(--purple);
-}
+#page_two h2 { color: var(--purple); }
+#page_one h2 { color: var(--purple); }
+#page_three h2 { color: var(--purple); }
