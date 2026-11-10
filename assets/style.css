@@ -84,8 +84,11 @@ section {
 }
 
 #bannerShadow {
-  background-color: rgba(192, 160, 240, 0.447);
+  background-color: rgba(211, 209, 213, 0.447);
   height: 100%;
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
 }
 
 h1 {
