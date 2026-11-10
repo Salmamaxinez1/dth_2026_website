@@ -4,18 +4,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Redaction+10:ital,wght@0,400;0,700;1,400&display=swap");
 
 /* here we set up project specific variables - this way we can keep the style consistent across all pages and elements. You can also create variable names for specific fonts and other elements */
+
 :root {
   --white: #ffffff;
   --black: #000000;
   --purple: #8658e2;
+  --light-purple: #e0d6ff;
   --dark: #0c008a;
-  --green: #57b7b4;
+  --green: #6c834b;
   --pink: #cb70db;
   --orange: #eb9744;
-  --green: #6c834b;
+  --red: #f22c43;
+  --blue: var(--purple);              
+  --light-blue: var(--light-purple);  
   --projectFont: "Redaction 10", Georgia, serif;
 }
-
 /* individual element styles */
 
 body {
