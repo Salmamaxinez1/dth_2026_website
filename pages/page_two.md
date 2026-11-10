@@ -2,10 +2,10 @@
 
 ## The unnoticed parts of using open source softwares
 
-Open source works as an open space for other users to collaborate on the development of specific projects in such a way there exist a “community driven”  on the elaboration of new implementations,the perception that this could only come with positive outcomes but the question is:
+Open source works as an open space for other users to collaborate on the development of specific projects. It leads to the perception that open source works with a “community driven” perspective and that the elaboration of new implementations is a collaborative work, however this opens up the question about:
 
 
-## What happens when a project is left at the disposition of other users?
+## What happens when a project is left at the disposition of many users?
 
 
 1. To provide improvements is one outcome but also the possibility to add malicious codes such as bad updates or other entries for external purposes than the original. Moreover, projects come as a target to retrieve data or have suspicious activities that could affect the collaborators and the end users.
