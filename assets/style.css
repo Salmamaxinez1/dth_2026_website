@@ -78,7 +78,7 @@ section {
 }
 
 #bannerShadow h1 {
-  color: var(--orange);
+  color: var(--purple);
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
 }
 
@@ -185,7 +185,7 @@ footer {
   color: var(--orange);
 }
 
-.blackText {
+.greenText {
   color: var(--green);
 }
 
@@ -202,7 +202,7 @@ main h2 + p {
 
 /* the resets at the top remove link colours and bullets everywhere, so we give them back inside main */
 main a {
-  color: var(--orange);
+  color: var(--purple);
   text-decoration: underline;
 }
 
@@ -239,9 +239,9 @@ main img {
   transform: scale(1);
 }
 
-#page_two h2 { color: var(--purple); }
-#page_one h2 { color: var(--purple); }
-#page_three h2 { color: var(--purple); }
+#page_two h2 { color: var(--pink); }
+#page_one h2 { color: var(--pink); }
+#page_three h2 { color: var(--pink); }
 
 main p,
 main li {
