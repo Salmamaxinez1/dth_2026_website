@@ -9,9 +9,9 @@ Students from Intercultural Studies, European studies or belonging to the Humani
 
 ## Life case scenario
 
-By 14th of December student on their 3rd semester of Master program need to present an assignment where  one of the points required is to provide a list of theoretical concepts with their references. Next, to that is is needed to code the notes that could help for the upcoming research. 
+By 14th of December students on their 3rd semester of the Master program need to present an assignment realted to their master thesis, where  one of the points requires to provide a list of theoretical concepts with their references. Next, to that it is needed to code the notes that could help for the upcoming research. 
 
-Zotero in this situation becomes a program where students can collect, organize, make notes and cite the papers that they engage regarding their research topic, this makes the potential research more efficient and it helps them to organize and keep track of their whole process without being unstructured.  
+In this situation, Zotero becomes a program where students can collect, organize, make notes and cite the papers that they engage regarding their research topic. This makes the potential research more efficient and it helps them to organize and keep track of their whole process without being unstructured.  
 
 
 
