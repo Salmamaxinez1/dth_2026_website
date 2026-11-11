@@ -7,8 +7,6 @@ Open Source Software (OSS) works with open source code which is a space for user
 
 ## But how to leverage this?
 
-- OSS is a source code developed and maintained through open collaboration. Anyone can use, examine, alter and redistribute it as they see fit (Susnjara & Smalley, 2021)
-
 - It is not a “one person work” which means that any user who wants to develop an idea does not require initial expert abilities, since the space allows other users with more experienced skills to interact and take the initiative to develop it. 
 
 - An idea can become a project, and for that to think more about the things that do not work initially and then fixing them is possible since the collaboration of other users is what maintains the space developing.
