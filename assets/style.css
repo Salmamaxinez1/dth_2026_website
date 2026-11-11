@@ -247,3 +247,7 @@ main p,
 main li {
   color: var(--green);
 }
+
+.carouselArt h3 {
+  color: var(--orange);
+}
