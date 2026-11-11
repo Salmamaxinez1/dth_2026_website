@@ -16,8 +16,6 @@ Open Source Software (OSS) works with open source code which is a space for user
 
 ## Beyond the limits
 
-OSS has become an opportunity to create a community where helping to fix errors opens up to collaborate, include and create constant updates. 
-
 People with different advanced expertise and diverse skills can contribute for mutual projects. In addition, this gives the possibility for multidisciplinary knowledge in business, engineering, architecture, academia etc. to be exchanged. 
 
 For instance the initiative OpenSource Construction a directory of open source projects for the Architecture, Engineering, and Construction (AEC) industry.
