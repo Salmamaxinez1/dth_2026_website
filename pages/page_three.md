@@ -11,7 +11,7 @@ Students from Intercultural Studies, European studies or belonging to the Humani
 
 By 14th of December student on their 3rd semester of Master program need to present an assignment where  one of the points required is to provide a list of theoretical concepts with their references. Next, to that is is needed to code the notes that could help for the upcoming research. 
 
-Zotero in thi situation becomes a program where students can collect, organize, make notes and cite the papers that engage regarding their research topic, this makes the potential research more efficient and it helps them to organize and keep track of their whole process without being unstructured.  
+Zotero in this situation becomes a program where students can collect, organize, make notes and cite the papers that they engage regarding their research topic, this makes the potential research more efficient and it helps them to organize and keep track of their whole process without being unstructured.  
 
 
 
