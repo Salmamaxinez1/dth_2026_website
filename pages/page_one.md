@@ -20,9 +20,12 @@ OSS has become an opportunity to create a community where helping to fix errors 
 
 People with different advanced expertise and diverse skills can contribute for mutual projects. In addition, this gives the possibility for multidisciplinary knowledge in business, engineering, architecture, academia etc. to be exchanged. 
 
+For instance the initiative OpenSource Construction a directory of open source projects for the Architecture, Engineering, and Construction (AEC) industry.
 
 
 ## References
 https://www.akamai.com/cloud/guides/what-is-open-source-software 
 
 https://www.ibm.com/think/topics/open-source 
+
+https://github.com/opensource-construction/osc-directory
