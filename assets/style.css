@@ -78,7 +78,7 @@ section {
 }
 
 #bannerShadow h1 {
-  color: var(--purple);
+  color: var(--light-purple);
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
 }
 
